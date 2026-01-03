@@ -1,6 +1,6 @@
 {
   "name": "html-css-lsp",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "HTML/CSS language server plugin for Claude Code with vscode-html/css-language-server integration and automated hooks for validation and formatting",
   "author": {
     "name": "zircote",
